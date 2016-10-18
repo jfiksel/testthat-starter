@@ -1,0 +1,8 @@
+Package: testthat-starter
+Version: 0.1.0
+Title: Testthat starter
+Description:
+    This package is designed to help folks get started
+    with automated testing n R.
+Suggests:
+    testthat
