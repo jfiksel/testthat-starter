@@ -15,6 +15,12 @@ To run the tests, run `R` in the directory of the package. Then from the repl ru
 > devtools::test()
 ```
 
+### Practice Test Driven Development
+
+The caeser cipher function has a single test and only enough functionality to pass that test.
+
+Practice TDD by adding tests one at a time and editing the function code to pass them iteratively.
+
 ----
 
 This is an introductory repository to go with an [automated testing in R](http://n-s-f.github.io/talks/rtesting.html#/) talk to JHU biostats computing club on 18 October 2016.
