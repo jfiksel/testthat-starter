@@ -15,6 +15,10 @@ To run the tests, run `R` in the directory of the package. Then from the repl ru
 > devtools::test()
 ```
 
+You can use this repository as a way to painlessly test some of your code. Just add your own functions and tests to the existing files, or add new files in the appropriate directories.
+
+View [this guide](http://r-pkgs.had.co.nz/tests.html) to testthat by [Hadley Wickham](https://github.com/hadley) for more information on how to get set up with testing in R.
+
 ### Practice Test Driven Development
 
 The caeser cipher function has a single test and only enough functionality to pass that test.
